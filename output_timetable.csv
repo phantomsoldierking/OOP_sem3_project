@@ -1,0 +1,6 @@
+Days,Slot 1 (09:00-10:00),Slot 2 (10:00-11:00),Slot 3 (11:00-12:00),Slot 4 (12:00-12:15 (Break)),Slot 5 (12:15-13:15),Slot 6 (13:15-14:15),Slot 7 (14:15-15:15 (Lunch)),Slot 8 (15:15-16:15),Slot 9 (16:15-17:15),Slot 10 (17:15-18:15)
+Monday,OOP (Tut, 1hr),Computute_Architecture (Lec, 1.5hr),,12:00-12:15 (Break),Computute_Architecture (Lec, 1.5hr),,14:15-15:15 (Lunch),Discrete_Maths (Lec, 1.5hr),,OOP (Lab, 2hr)
+Tuesday,Discrete_Maths (Lec, 1.5hr),,DAA (Lab, 2hr),12:00-12:15 (Break),Probabitlity (Tut, 1hr),DAA (Lec, 1.5hr),14:15-15:15 (Lunch),Computute_Architecture (Tut, 1hr),DAA (Tut, 1hr),Probabitlity (Lec, 1.5hr)
+Wednesday,ISP (Lec, 1.5hr),,OOP (Lec, 1.5hr),12:00-12:15 (Break),Discrete_Maths (Tut, 1hr),ISP (Lec, 1.5hr),14:15-15:15 (Lunch),Probabitlity (Lec, 1.5hr),,Computute_Architecture (Lab, 2hr)
+Thursday,,,,12:00-12:15 (Break),,,14:15-15:15 (Lunch),,,
+Friday,,,,12:00-12:15 (Break),,,14:15-15:15 (Lunch),,,
