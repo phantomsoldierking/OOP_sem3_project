@@ -16,6 +16,7 @@ public class Course {
     public String getCourseTitle() { return courseTitle; }
     public String getCourseCode() { return courseCode; }
     public int[] getLtpsc() { return ltpsc; }
+    public String getDetails() { return (ltpsc[0] + "-" + ltpsc[1] + "-" + ltpsc[2] + "-" + ltpsc[3] + "-" + ltpsc[4]); }
     public String getFaculty() { return faculty; }
     public String getLabAssistance() { return labAssistance; }
 
