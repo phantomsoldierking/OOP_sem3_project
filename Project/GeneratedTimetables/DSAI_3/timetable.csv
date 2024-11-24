@@ -1,0 +1,19 @@
+Time,Monday,Tuesday,Wednesday,Thursday,Friday
+09:00 - 09:30,DS201,DS201,CS207,CS207,EC209
+09:30 - 10:00,DS201,DS201,CS207,CS207,EC209
+10:00 - 10:30,DS201,DS201,CS207,CS207,EC209
+10:30 - 11:00,CS201,CS201,CS202,CS202,HS205
+11:00 - 11:30,CS201,CS201,CS202,CS202,HS205
+11:30 - 12:00,CS201,CS201,CS202,CS202,HS205
+12:00 - 12:30,CS201 (Tut),CS202 (Tut),EC209 (Tut),,
+12:30 - 13:00,CS201 (Tut),CS202 (Tut),EC209 (Tut),,
+13:00 - 13:30 ,Lunch Break,Lunch Break,Lunch Break,Lunch Break,Lunch Break
+13:30 - 14:00,Lunch Break,Lunch Break,Lunch Break,Lunch Break,Lunch Break
+14:00 - 14:30,,,,,
+14:30 - 15:00,DS201 (Lab),,CS207 (Lab),CS202 (Lab),
+15:00 - 15:30,DS201 (Lab),,CS207 (Lab),CS202 (Lab),
+15:30 - 16:00,DS201 (Lab),,CS207 (Lab),CS202 (Lab),
+16:00 - 16:30,DS201 (Lab),,CS207 (Lab),CS202 (Lab),
+16:30 - 17:30,,,,,
+17:00 - 17: 30,,,,,
+17:30 - 18:30,,,,,
